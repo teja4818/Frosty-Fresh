@@ -1,0 +1,7 @@
+{
+  "name": "Frosty & Fresh",
+  "description": "A premium animated storefront for artisanal ice creams and fresh-pressed juices featuring an AI flavor assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
